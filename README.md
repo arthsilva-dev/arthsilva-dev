@@ -4,23 +4,12 @@ Olá! Eu sou Arthur Silva, aspirante a programador Full Stack. Estou começando 
 
 ## Futuro Skills
 
-![image](https://github.com/arthsilva-dev/arthsilva-dev/assets/158113465/97faa908-1f73-408e-8b8f-a1f9d3b2e148) ![image](https://github.com/arthsilva-dev/arthsilva-dev/assets/158113465/8e48adca-b0e9-41ab-b6f0-f0e209bc63fb) ![image](https://github.com/arthsilva-dev/arthsilva-dev/assets/158113465/baab4bb4-5507-4d0a-809b-a4ee14f94ba1) ![image](https://github.com/arthsilva-dev/arthsilva-dev/assets/158113465/d302ed31-b99f-42f6-b970-334875b2c188) ![image](https://github.com/arthsilva-dev/arthsilva-dev/assets/158113465/238c8f36-8e2b-447c-9630-3bc546bffda0) ![image](https://github.com/arthsilva-dev/arthsilva-dev/assets/158113465/30092971-ef93-44fb-9a7f-820412c60b03) ![image](https://github.com/arthsilva-dev/arthsilva-dev/assets/158113465/788f6f3f-4351-4503-be60-ac9b46a7600f) ![image](https://github.com/arthsilva-dev/arthsilva-dev/assets/158113465/102626cf-bb6e-4e16-8ecb-bc1010bb0523) ![image](https://github.com/arthsilva-dev/arthsilva-dev/assets/158113465/f5f9c16b-f31a-42c3-bd66-fcedd4839e3d) ![image](https://github.com/arthsilva-dev/arthsilva-dev/assets/158113465/32044f2c-df6d-46ad-a8f3-4d74843b5488) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
-
-
-
-
-
-
-
-
-
-
-
-##![image](https://github.com/arthsilva-dev/arthsilva-dev/assets/158113465/6777ba42-5d96-4ee4-b61f-b11a220ec3ff) Sociais
+##  Sociais
 
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-##Github Stats
+## ![image](https://github.com/arthsilva-dev/arthsilva-dev/assets/158113465/6777ba42-5d96-4ee4-b61f-b11a220ec3ff) Github Stats
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=arthsilva-dev&show_icons=true&theme=dracula#gh-dracula-mode-only)](https://github.com/arthsilva-dev/github-readme-stats#gh-dracula-mode-only) 

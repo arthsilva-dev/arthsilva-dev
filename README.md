@@ -10,6 +10,6 @@ Olá! Eu sou Arthur Silva, aspirante a programador Full Stack. Estou começando 
 
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## ![image](https://github.com/arthsilva-dev/arthsilva-dev/assets/158113465/6777ba42-5d96-4ee4-b61f-b11a220ec3ff) Github Stats
+## Github Stats
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=arthsilva-dev&show_icons=true&theme=dracula#gh-dracula-mode-only)](https://github.com/arthsilva-dev/github-readme-stats#gh-dracula-mode-only) 
